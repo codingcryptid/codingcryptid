@@ -1,0 +1,5 @@
+- ✨ Everett Latulippe ✨
+- Currently learning front end web development; HTML5, CSS3, Javascript, REACT
+- Accessible UI/UX
+- Twitter: @codingcryptid
+- Email: codingcryptid@gmail.com
